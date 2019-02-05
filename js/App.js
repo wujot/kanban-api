@@ -1,7 +1,6 @@
 // Variables
-var baseUrl = 'https://kodilla.com/pl/bootcamp-api';
+var baseUrl = 'https://cors-anywhere.herokuapp.com/https://kodilla.com/pl/bootcamp-api';
 var myHeaders =  {
-	'Content-Type': 'application/json',
   	'X-Client-Id': '3820',
   	'X-Auth-Token': 'a82b1a3e1000687d38bcc8d12093d0bf'
 };
